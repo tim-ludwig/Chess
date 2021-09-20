@@ -6,7 +6,7 @@ import me.tludwig.chess.game.Board;
 
 public class BotTest {
 	public static void main(String[] args) {
-		ChessBot.start("ODA4Nzg5NzgyOTg4ODQ5MTUy.YCLqLg.r5-gU2upQiEi4DIN7jf_6yveZQg");
+		ChessBot.start("");
 
 		try {
 			Thread.sleep(2000);
